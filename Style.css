@@ -7,7 +7,7 @@
 }
 header{
     background-color: #f5f4f4;
-    background-image:url(png_home-1-removebg-preview-transformed.png) ;
+    background-image:url(png_home-1-removebg-preview.png) ;
     background-repeat: no-repeat;
     background-size: 700px;
     background-position: right;
@@ -15,8 +15,8 @@ header{
     height: 100vh;
     font-family: 'montserrat',sans-serif;
 }
-.emre{
-    width: 200px;
+.logo{
+    width: 160px;
     padding-left: 0;
 
 }
@@ -114,7 +114,8 @@ header{
     display: flex;
     justify-content: center;
     color: #f5f4f4;
-    padding: 30px 0;
+    padding: 30px 0px;
+
 }
 .img-content{
     display: flex;
@@ -124,19 +125,34 @@ header{
 .penjualan{
     width: 300px;
     border-radius: 10px;
+    align-items: center;
 }
 .product-content{
     display: flex;
     padding:10px 0 ;
     color: #f5f4f4;
+    text-align: center  ;
 }
 .abil1{
-    padding-left: 90px;
+    padding-left: 120px;
 }
 .abil2{
-    padding-right: 100px;
-    padding-left: 300px;
+    padding-right: 54px;
+    padding-left: 283px;
 }
 .abil3{
-    padding-left: 240px;
+    padding-left: 255px;
+}
+.best-product{
+    background-color: white;
+    height: 500px;
+}
+.best-product h2{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 25px;
+    ;
+}
+.best-product h1{
+
 }
