@@ -60,10 +60,9 @@ header{
     height: 30px;
     border-color: #cdac81;
     border-radius: 5px;
-    border: none;
 }
 .button2:hover{
-    border: 1px solid #cdac81;
+    border: 2px solid #cdac81;
     transition: .3s;
 }
 
